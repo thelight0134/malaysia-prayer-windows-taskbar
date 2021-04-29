@@ -30,6 +30,7 @@ def getNextPray():
     for prayerTime in prayerTimes:
         if(datetime.datetime.now() < prayerTimes[prayerTime]):
             toBeNextPray = prayerTime
+            break
     if(toBeNextPray == ''):
         toBeNextPray = 'Imsak'
     return toBeNextPray
@@ -45,9 +46,9 @@ def job():
         nextPray = toBeNextPray
 
 init()
+job()
 schedule.every().day.at("00:01").do(init)
 schedule.every(1).minutes.do(job)
-job()
 while True:
     schedule.run_pending()
     time.sleep(20)
