@@ -1,6 +1,6 @@
 # Malaysia Prayer Time (Windows Taskbar)
-#### Current version: 0.0.1
-> This version only applicable to WP Kuala Lumpur and other sharing prayer time zone.
+#### Current version: 0.0.2
+> This version only applicable for WP Kuala Lumpur and other sharing prayer time zone.
 ####
 ### How to add next prayer time in taskbar
 - Clone/download this repository
