@@ -9,7 +9,7 @@
 - Right click on added toolbar and uncheck 'Show Title'
 - Adjust the length of the toolbar.
 - Relock the taskbar
-- Create shortcut of 'Malaysia Prayer Time.exe' to startup folder. (Ctrl+R | 'shell:startup')
+- Create shortcut of 'Malaysia Prayer Time.exe' to startup folder. (Win+R | 'shell:startup')
 - Run 'Malaysia Prayer Time.exe'
 
 ### Screenshots
