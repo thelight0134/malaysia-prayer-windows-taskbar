@@ -1,5 +1,5 @@
 # Malaysia Prayer Time
-> Displayed with Toolbar on Windows Taskbar (Removed in Windows 11)
+- Displayed with Toolbar on Windows Taskbar (Removed in Windows 11)
 #### Current version: 0.0.2
 > This version only applicable for WP Kuala Lumpur and other sharing prayer time zone.
 ####
